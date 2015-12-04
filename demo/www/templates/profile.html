@@ -1,0 +1,43 @@
+<ion-view view-title="Profile">
+    <ion-content ng-class="{expanded:$scope.isExpanded}">
+        <div class="hero slide-up" style="background-image: url('img/login11.jpg');">
+            <div class="content">
+                <div class="avatar" style="background-image: url('img/gbr1.jpg');"></div>
+                <h3><a class="light">Setya Novanto</a></h3>
+                <h4></h4>
+            </div>
+        </div>
+        <div class="tabs tabs-dark tabs-icon-top static">
+            <a ui-sref="" class="tab-item">
+                <i class="icon ion-email-unread"></i>Message
+            </a>
+            <a ui-sref="app.friends" class="tab-item">
+                <i class="icon ion-android-people"></i> Friends
+            </a>
+            <a ui-sref="app.shop" class="tab-item">
+                <i class="icon ion-images"></i> Photos
+            </a>
+        </div>
+        <h4 class="content padding double-padding-x">Following</h4>
+        <div class="list animate-fade-slide-in-right">
+            <a ui-sref="app.friends" class="item item-avatar item-icon-right">
+                <img src="img/jon-snow.jpg">
+                <h2>Sule</h2>
+                <p>Mas,botol nya bisa warna merah?</p>
+                <i class="icon ion-chatbubble muted"></i>
+            </a>
+            <a ui-sref="app.friends" class="item item-avatar item-icon-right">
+                <img src="img/sansa.jpg">
+                <h2>Eli Sugigi</h2>
+                <p>Kalo saya pesan yang banyak gimana ya </p>
+                <i class="icon ion-chatbubble muted"></i>
+            </a>
+            <a ui-sref="app.friends" class="item item-avatar item-icon-right">
+                <img src="img/tyrion.jpg">
+                <h2>Soimah</h2>
+                <p>Saya mau pesan  yang banyak buat kondangan.kira-kira ada Diskon?</p>
+                <i class="icon ion-chatbubble muted"></i>
+            </a>
+        </div>
+    </ion-content>
+</ion-view>
