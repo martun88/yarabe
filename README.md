@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ionic Material
 
 [![Join the chat at https://gitter.im/zachsoft/Ionic-Material](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zachsoft/Ionic-Material?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -136,3 +137,17 @@ See [Milestones](https://github.com/zachsoft/ionic-material/milestones)
 3. Port animate.js with bezier curve adjustments to match "authentic motion" spec of Material Design.
 
 4. Bug fixes
+=======
+# YARABE ( Aplikasi Prakarya Barang Bekas )
+Aplikasi Prakarya Barang Bekas adalah sebuah aplikasi yang di rancang khusus untuk membantu pengguna mengetahui cara-cara mendaur ulang sampah atau membuat sesuatu yang bermanfaat yang berasal dari sampah,sehingga sampah-sampah di lingkungan sekitar kita dapat berkurang.
+
+## Tim YARABE
+* TEUKU MARTUNISSYAH      
+* ALVANTESHA PRILIANDI	  
+* CHAIRIL AZMI	 	 	      
+* M. REZA SURYA KAMAJAYA  
+* CHRISMAN HUTAGALUNG  	  
+
+
+
+>>>>>>> 17170377ef844e8fc7b4e237052458dfec4b44c5
